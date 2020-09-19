@@ -1,0 +1,7 @@
+__pycache__
+.nox
+.pytest_cache
+.vscode
+.coverage
+py38hypermodern
+src/hypermodern_imc.egg-info
